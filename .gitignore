@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+*.bak
+*.resequenced.txt
+.DS_Store
+Thumbs.db
