@@ -1,15 +1,16 @@
 # Python Resequencer
 
-Small vanilla Python tool for resequencing list IDs.
+I basically only made this for a super niche specific "problem" and i just figured it would be a cool thing with python. nothing more, and probably not that useful.
 
-Repo: `https://github.com/zerviate/python-resequencer`
+Vanilla Python tool for resequencing list IDs.
+
 
 It supports these ID styles:
 
 ```txt
-[s0001] prompt text,
+[s0001] placeholder text,
 [d003X] placeholder text,
-[o9999] prompt text,
+[o9999] placeholder text,
 id: "s0001",
 id: 'd0001',
 ```
